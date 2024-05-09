@@ -1,0 +1,7 @@
+Home,./views/home.php
+Pages,./views/pages.php
+Shop,./views/shop.php
+Blog,./views/blog.php
+Services,./views/services.php
+Gallery,./views/gallery.php
+About Us,./views/about.php
